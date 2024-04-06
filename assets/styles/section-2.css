@@ -1,0 +1,36 @@
+.section-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: black;
+  background-color: white;
+  height: 40rem;
+}
+
+.section-2__info {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  gap: 2rem;
+  width: 50%;
+}
+
+.section-2__info h2 {
+  font-size: 3rem;
+}
+
+.section-2__info p {
+  font-size: 1.2rem;
+  gap: 1rem;
+  line-height: 2rem;
+}
+
+@media (max-width: 834px) {
+  .section-2__info {
+    width: 80%;
+  }
+  .section-2__info h2 {
+    font-size: 2rem;
+  }
+}

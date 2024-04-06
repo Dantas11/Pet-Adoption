@@ -39,8 +39,8 @@ If you'd like to contribute to this project, please fork the repository and subm
 N/A
 
 ## Credits
-Images: ![Unsplash](https://unsplash.com/).
-Icons: ![FontAwesome](https://fontawesome.com/).
+Images: [Unsplash](https://unsplash.com/).
+Icons: [FontAwesome](https://fontawesome.com/).
 
 ## Test and Deploy
 

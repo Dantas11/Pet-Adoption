@@ -13,7 +13,9 @@ This project is a simple web page designed to showcase pets available for adopti
 
 ## SCREENSHOTS
 
-![Screenshot 2023-07-06 205336](https://github.com/Dantas11/COVID-Flight-Tracker/assets/125000756/f081577a-1bb1-439f-beb3-58fbcda86234)
+![Pet-Adoption-Page](https://github.com/Dantas11/Pet-Adoption/blob/main/assets/images/A2.png)
+![Pet-Adoption-Page](https://github.com/Dantas11/Pet-Adoption/blob/main/assets/images/A4.png)
+![Pet-Adoption-Page](https://github.com/Dantas11/Pet-Adoption/blob/main/assets/images/A3.png)
 
 ## Technologies Used
 

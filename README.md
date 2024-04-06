@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a simple web page designed to showcase pets available for adoption. The page provides information about each pet, including their name, breed, age, and a brief description. Users can browse through the available pets and contact the adoption agency for more information or to initiate the adoption process.
+This project is a simple web page designed to showcase pets available for adoption. The page provides information about each pet with a brief description. 
 
 ## Features
 
@@ -42,9 +42,9 @@ N/A
 
 ## Credits
 
-Images: [Unsplash](https://unsplash.com/).
+Images: [Unsplash](https://unsplash.com/)
 
-Icons: [FontAwesome](https://fontawesome.com/).
+Icons: [FontAwesome](https://fontawesome.com/)
 
 ## Test and Deploy
 

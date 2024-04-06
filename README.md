@@ -41,11 +41,12 @@ N/A
 ## Credits
 
 Images: [Unsplash](https://unsplash.com/).
+
 Icons: [FontAwesome](https://fontawesome.com/).
 
 ## Test and Deploy
 
-Github Deployment url: https://dantas11.github.io/Pet-Adoption/
+[Website page](https://dantas11.github.io/Pet-Adoption/)
 
 ## Contact
 

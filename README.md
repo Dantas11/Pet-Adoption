@@ -6,10 +6,10 @@ This project is a simple web page designed to showcase pets available for adopti
 
 ## Features
 
-*Display a list of available pets with their descriptionss
-*Responsive design to ensure compatibility across devices
-*Easy navigation through a well-structured layout
-*Contact form for users to reach out to the adoption agency
+- Display a list of available pets with their descriptionss
+- Responsive design to ensure compatibility across devices
+- Easy navigation through a well-structured layout
+- Contact form for users to reach out to the adoption agency
 
 ## SCREENSHOTS
 
@@ -37,6 +37,10 @@ If you'd like to contribute to this project, please fork the repository and subm
 ## License 
 
 N/A
+
+## Credits
+Images: ![Unsplash](https://unsplash.com/).
+Icons: ![FontAwesome](https://fontawesome.com/).
 
 ## Test and Deploy
 

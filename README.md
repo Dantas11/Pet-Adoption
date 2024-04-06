@@ -9,7 +9,6 @@ This project is a simple web page designed to showcase pets available for adopti
 - Display a list of available pets with their descriptionss
 - Responsive design to ensure compatibility across devices
 - Easy navigation through a well-structured layout
-- Contact form for users to reach out to the adoption agency
 
 ## SCREENSHOTS
 
@@ -45,6 +44,10 @@ N/A
 Images: [Unsplash](https://unsplash.com/)
 
 Icons: [FontAwesome](https://fontawesome.com/)
+
+## Future Technologies
+
+Users can browse through the available pets having more information such as age, breed and information about the pet. User to be able to login and logout and contact the adoption agency for more information or to initiate the adoption process throught a form.
 
 ## Test and Deploy
 

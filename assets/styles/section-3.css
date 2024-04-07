@@ -2,7 +2,7 @@
   background-color: #e9a89b;
 }
 
-.section-3__pet-list {
+.section-3__pet-menu {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -10,7 +10,7 @@
   padding: 5rem;
 }
 
-.section-3__pet-list__info {
+.section-3__pet-item {
   flex: 0 0 calc(33.333% - 2rem);
   display: flex;
   flex-direction: column;
@@ -18,20 +18,20 @@
   gap: 2rem;
 }
 
-.section-3__pet-list__info a {
+.section-3__pet-item a {
   text-decoration: none;
   color: white;
   font-size: 3rem;
 }
 
-.section-3__pet-list__info p {
+.section-3__pet-item p {
   font-size: 1.1rem;
   color: white;
   text-align: center;
   line-height: 2rem;
 }
 
-.pet-list__img {
+.pet-item__img {
   width: 25rem;
   height: 30rem;
 }
